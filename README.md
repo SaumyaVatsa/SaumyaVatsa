@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/saumya_vatsaa" target="blank"><img src="https://img.shields.io/twitter/follow/saumya_vatsaa?logo=twitter&style=for-the-badge" alt="saumya_vatsaa" /></a> </p>
 
-- 🌱 I’m currently learning **Full Stack, React js and C++**
+- 🌱 I’m currently learning **Full Stack, React js and Java**
 
-- 💬 Ask me about **Web Development, C and C++**
+- 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **saumyavatsaofficial@gmail.com**
 
