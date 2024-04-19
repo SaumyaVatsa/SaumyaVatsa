@@ -11,7 +11,7 @@
 
 - 💬 Ask me about **Web Development**
 
-- 📫 How to reach me **saumyavatsaofficial@gmail.com**
+- 📫 How to reach me **saumyavatsa2108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
