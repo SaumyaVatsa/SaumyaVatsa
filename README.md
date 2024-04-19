@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saumyavatsa&label=Profile%20views&color=0e75b6&style=flat" alt="saumyavatsa" /> </p>
 
 <p align="left"> <a href="https://twitter.com/saumya_vatsaa" target="blank"><img src="https://img.shields.io/twitter/follow/saumya_vatsaa?logo=twitter&style=for-the-badge" alt="saumya_vatsaa" /></a> </p>
-<p align="left"> <a href="https://www.linkedin.com/in/saumya-vatsa-b71818212/" target="blank"><img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.flaticon.com%2Ffree-icon%2Flinkedin_174857&psig=AOvVaw3WLePJCRwFnd1f4ZCECKKw&ust=1713590498147000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCMDyrJjEzYUDFQAAAAAdAAAAABAE" alt="saumya_vatsaa" /></a> </p>
+<p align="left"> <a href="https://www.linkedin.com/in/saumya-vatsa-b71818212/" target="blank">LinkedIn</a> </p>
 
 - 🌱 I’m currently learning **Full Stack, React js and Java**
 
